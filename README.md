@@ -1,3 +1,6 @@
+# A Java Maven Hello World Application
+[![Build Status](https://dev.azure.com/maping930883/java-maven-helloworld-app/_apis/build/status/java-maven-helloworld-app-Maven-CI?branchName=master)](https://dev.azure.com/maping930883/java-maven-helloworld-app/_build/latest?definitionId=12&branchName=master)
+
 ## 1. 在 Github 上创建 Repo
 点击 Repositories，点击 New，输入 java-maven-helloworld-app
 
